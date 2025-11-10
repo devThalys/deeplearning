@@ -1,4 +1,4 @@
-Semana,Mes,Data_Inicio,Data_Fim,Temperatura,Dias da semana,Sabor,Volume_L
+Semana,Mes,Data_Inicio,Data_Fim,Temperatura,Dias_da_semana,Sabor,Volume_L
 1,4,2025-04-01,2025-04-07,"15,9","3,4,5,6,7,1,2",abacaxi_com_hortela,2
 1,4,2025-04-01,2025-04-07,"15,9","3,4,5,6,7,1,2",uva,10
 1,4,2025-04-01,2025-04-07,"15,9","3,4,5,6,7,1,2",laranja,10
@@ -114,3 +114,4 @@ Semana,Mes,Data_Inicio,Data_Fim,Temperatura,Dias da semana,Sabor,Volume_L
 1,11,2025-10-28,2025-11-03,"16,3","3,4,5,6,7,1,2",abacaxi_com_hortela,2
 1,11,2025-10-28,2025-11-03,"16,3","3,4,5,6,7,1,2",limonada_suica,6
 1,11,2025-10-28,2025-11-03,"16,3","3,4,5,6,7,1,2",maracuja,2
+
