@@ -1,4 +1,4 @@
-Semana,Mes,Data_Inicio,Data_Fim,Temperatura,Dias,Dias_de_Semana,Dias_Uteis,Dias_Fim_Semana,Feriado,Sabor_Novo,Volume_Ant,Media_Movel_3m,Sabor,Volume_L
+Ano,Mes,Data_Inicio,Data_Fim,Temperatura,Dias,Dias_de_Semana,Dias_Uteis,Dias_Fim_Semana,Feriado,Sabor_Novo,Volume_Ant,Media_Movel_3m,Sabor,Volume_L
 2025,4,2025-04-01,2025-04-30,"17,625",30,22,20,8,2,1,0,0,abacaxi,24
 2025,4,2025-04-01,2025-04-30,"17,625",30,22,20,8,2,1,0,0,abacaxi_com_hortela,2
 2025,4,2025-04-01,2025-04-30,"17,625",30,22,20,8,2,1,0,0,bergamota,4
